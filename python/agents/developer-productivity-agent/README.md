@@ -1,4 +1,4 @@
-# Developer Productivity Agent using Application Integration and Integration Connector Tools
+# [README is WIP] Developer Productivity Agent using Application Integration and Integration Connector Tools
 
 ## Overview
 
@@ -16,7 +16,7 @@ This agent sample acts as a helpful virtual assistant for an app developer. It i
 
 ### Agent Architecture
 
-![architecture](arch.png)
+
 
 ### Key Features
 
