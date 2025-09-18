@@ -1,8 +1,8 @@
-# Auto insurance Agent using Apigee API hub
+# Developer Productivity Agent using Application Integration and Integration Connector Tools
 
 ## Overview
 
-This agent sample acts as a helpful virtual assistant for an auto insurance company. It is able to register new members and perform several functions for existing members, including filing claims, providing roadside assistance, and returning information about reward offers from partner companies.  The agent uses several tools to fulfill these tasks. The tools are custom APIs registered in [Apigee API hub](https://cloud.google.com/apigee/docs/apihub/what-is-api-hub).
+This agent sample acts as a helpful virtual assistant for an app developer. It is able to look up information for app developers from GitHub, Stack Overflow and Confluence, as well as raise bugs in the company's internal Jira Service Management system.  The agent uses several tools to fulfill these tasks.
 
 ## Agent Details
 
